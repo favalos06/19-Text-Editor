@@ -36,5 +36,4 @@ NA
 * Ask me questions at fernando.avalostorres91@gmail.com
 
 ## Deployed Link
-
-  
+https://favalos06.github.io/19-Text-Editor/
